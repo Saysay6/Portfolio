@@ -1,0 +1,25 @@
+.footer {
+  text-align: center;
+  padding: 1rem 0;
+  background-color:#395221
+}
+.back-to-top {
+  padding: 0.75rem 1.5rem;
+  background-color:#75AC00;
+  color: white;
+  border: none;
+  border-radius:25px;
+  cursor: pointer;
+}
+.back-to-top {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .back-to-top {
+    width: 90%;
+    font-size: 0.9rem;
+  }
+}
