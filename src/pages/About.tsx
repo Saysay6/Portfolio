@@ -5,8 +5,8 @@ const About= () => {
     <section id="about" className="about container">
       <h2>About Me</h2>
       <p>
-        I'm a passionate fullstack developer with a strong foundation
-        in<strong> HTML,CSS and JAVASCRIPT</strong>.I enjoy building clean and responsive web applications that
+        I'm a passionate frontend developer with a strong foundation
+        in<strong> HTML,CSS,JAVASCRIPT and REACT</strong>. I enjoy building clean and responsive web applications that
         solves real problems
         .</p>
        <p> Collaboration is important to me  — I thrive in team environments and love exchanging
